@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/204d8730-2c86-478e-868f-4088c8ec04eb" /># 🌐 Tailwind CSS Card & Registration Pages
+# 🌐 Tailwind CSS Card & Registration Pages
 
 A simple **responsive UI project built using HTML and Tailwind CSS**.
 This project demonstrates a **card layout page and a registration page** styled with Tailwind and compiled using a Tailwind build setup.
